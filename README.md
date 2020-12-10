@@ -1,3 +1,5 @@
+This Project is come form [yolo](https://github.com/yjh0410/yolov2-yolov3_PyTorch), a great job. It's very suitable for us to learn YOLO. Thanks!
+
 # YOLOv3-SPP
 I am trying to reproduce YOLOv3 with SPP and more other modules and tricks.
 
